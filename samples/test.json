@@ -1,0 +1,3514 @@
+{
+	"Count": 135,
+	"Items": [{
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average of Producing Hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Tandems"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "260D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM SI (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15N"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "OM TOTAL (EUR)"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "377D"
+		},
+		"kpi": {
+			"S": "259D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total Live hotels"
+		},
+
+		"idea": {
+			"N": "464"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "377D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Kickbacks (EUR)"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Hotels per Tandem"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Total live hotels"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "260N"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average SI OM"
+		},
+
+		"idea": {
+			"N": "456"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "15"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZUSWEST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZUSEAST"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZAPAC"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZSOUTHERNEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZNORTHERNCENTRALEUROPE"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZMETA"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZLATAM"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZSPAINPORTUGAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZRUSSIACIS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Average Kickback per hotel"
+		},
+
+		"idea": {
+			"N": "455"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "Product factory model"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "259"
+		},
+		"type": {
+			"S": "MANUAL"
+		},
+		"granularity": {
+			"S": "ZHOMESUS"
+		}
+	}, {
+		"kpi_name": {
+			"S": "Cost per TB"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		},
+		"idea": {
+			"N": "25"
+		},
+		"element": {
+			"S": "KPI"
+		},
+		"workstream": {
+			"S": "IT factory model \u0026 Capex prioritization"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "19"
+		},
+		"type": {
+			"S": "MANUAL"
+		}
+	}, {
+		"kpi_name": {
+			"S": "TB stored"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		},
+		"idea": {
+			"N": "25"
+		},
+		"element": {
+			"S": "denominator"
+		},
+		"workstream": {
+			"S": "IT factory model \u0026 Capex prioritization"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "19D"
+		},
+		"type": {
+			"S": "AUTOMATIC"
+		}
+	}, {
+
+		"kpi_name": {
+			"S": "Infrastructure Cost (EUR)"
+		},
+		"granularity": {
+			"S": "SIN_ASIG"
+		},
+		"idea": {
+			"N": "25"
+		},
+		"element": {
+			"S": "numerator"
+		},
+		"workstream": {
+			"S": "IT factory model \u0026 Capex prioritization"
+		},
+		"shared": {
+			"S": "N"
+		},
+		"kpi": {
+			"S": "19N"
+		},
+		"type": {
+			"S": "MANUAL"
+		}
+	}],
+	"ScannedCount": 135,
+	"ConsumedCapacity": null
+}
