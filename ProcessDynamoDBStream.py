@@ -2,6 +2,7 @@ from __future__ import print_function
 import boto3
 import json
 import decimal
+import time
 from boto3.dynamodb.conditions import Key, Attr
 
 # Helper class to convert a DynamoDB item to JSON.
@@ -22,8 +23,18 @@ def lambda_handler(event, context):
 
     response = table.scan()
 
+
+    ## dd/mm/yyyy format
+
+    print(time.strftime("%m%Y"))
+
+    month = time.strftime("%m%Y")
+
     for i in response['Items']:
-        print(json.dumps(i, cls=DecimalEncoder))
+        if not month in i:
+            break
+        else:
+            print(json.dumps(i, cls=DecimalEncoder))
 
     while 'LastEvaluatedKey' in response:
         response = table.scan(
